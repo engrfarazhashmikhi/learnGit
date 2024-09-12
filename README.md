@@ -1,2 +1,0 @@
-# learnGit
-Learn Git VSC
